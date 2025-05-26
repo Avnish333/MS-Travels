@@ -37,5 +37,3 @@ To deploy this website to GitHub Pages, follow these steps:
 
 3.  **Access your site:**
     After a few moments, your site should be published at `https://<your-username>.github.io/MS-Travels/` (replace `<your-username>` with your GitHub username). You might need to wait a few minutes for the deployment to complete.
-
-If you encounter any issues, ensure that `index.html` exists in the root of your `main` branch and that your GitHub Pages settings are configured correctly.
